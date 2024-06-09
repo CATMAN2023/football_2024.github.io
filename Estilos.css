@@ -116,10 +116,20 @@
   }
  
 .FDO{
-    background: #f2f2f2 url("FONDOS/oip5.jpg");
+    /*background: #f2f2f2 url("FONDOS/oip5.jpg");*/
     /*background-image:url("FONDOS/oip5.jpg");
     /*background-repeat: no-repeat;*/
     /*background-size: cover;*/
+    
+      /*background-color: darkgray;*/
+      position:absolute;
+      top: 0;
+      left: 0;
+      width: 100vw;
+      height: 100vh;
+      background: url('./FONDOS/clubs.png') no-repeat center;
+      background-size: cover;
+  
     background-color:darkgray;
     background-repeat: round;
     /*margin:auto;
