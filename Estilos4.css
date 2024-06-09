@@ -1,4 +1,11 @@
 .FDA{
+    position:absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: url('./FONDOS/clubs.png') no-repeat center;
+    background-size: cover;
     color:black;
     /*font-weight:bolder;
     font: size 30px;*/
@@ -13,11 +20,12 @@
 }
 
 .text-center{
-    background: lightblue url("FONDOS/oip5.jpg");
+    /*background: lightblue url("FONDOS/oip5.jpg");*/
     /*background-image:url("FONDOS/oip.jpg");
     /*background-color:aqua;
     left: 0;
     right: 0;*/
+    
     width: 80%;
     margin: 40 auto;
     padding: 40px 20px;
