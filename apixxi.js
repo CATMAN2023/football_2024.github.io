@@ -10,6 +10,9 @@ let allTeamsData; // Variable para almacenar todos los datos de equipos
 //fetch("https://cors-anywhere.herokuapp.com/http://localhost/API/equipos.json")                   
 //fetch("http://localhost:80/API/equipos.json")
 fetch("http://localhost/API/equipos.json") //ES LA UNICA QUE FUNCIONO HASTA QUE SE BLOQUEO"
+
+fetch("./API/equipos.json")
+
 //fetch('http://localhost/API/equipos.json')
 //fetch("http://localhost:8080/API/equipos.json")
 //fetch("../API/equipos.json")
