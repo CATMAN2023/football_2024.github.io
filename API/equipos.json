@@ -752,8 +752,8 @@
     "estadio": "Centenario",
     "construido":1995,
     "capacidad":30200,
-    "campprof":0,
-    "campamat": 2,
+    "campprof":1,
+    "campamat": 1,
     "Categoria": "Primera Nacional"
   },
   {
@@ -765,8 +765,8 @@
     "estadio": "Miguel Sancho",
     "construido":1948,
     "capacidad":22000,
-    "campprof":0,
-    "campamat": 0,
+    "campprof":9,
+    "campamat": 9,
     "Categoria": "Primera Nacional"
   },
   {
@@ -1000,7 +1000,7 @@
     "construido":1926,
     "capacidad":9500,
     "campprof":0,
-    "campamat": 0,
+    "campamat": 1,
     "Categoria": "Primera B"
   },
   {
